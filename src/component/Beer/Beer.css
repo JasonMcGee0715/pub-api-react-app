@@ -1,0 +1,26 @@
+.beerImage {
+    height: 150px;
+    width: auto;
+}
+
+.beerItself {
+    background-color: #EFF7FF;
+    margin: 20px;
+    padding: 10px;
+    border: solid 5px  #FFD670;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.beerItself p {
+    margin: 0px;
+    font-size: 14px;
+}
+
+.img-like {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0px 10px 25px;
+    
+}
