@@ -26,7 +26,7 @@ componentDidMount() {
   render() {
     return (
       <div className="App">
-        <h1 className='title'>Pub Api</h1>
+        <h1 className='title'>Pub API</h1>
         <ul className='beerList'>
           {this.state.beers.map(beer => (
           <Beer beer={beer}/>
